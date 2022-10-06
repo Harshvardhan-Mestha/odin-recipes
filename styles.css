@@ -1,0 +1,28 @@
+body {
+    background-color: khaki;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: darkgreen;
+    font-family:copperplate;
+}
+
+h1 {
+    color: rgb(2, 88, 127);
+    font-family: Papyrus;
+    font-style: italic;
+    font-weight: bold;
+    margin: auto;
+    text-align: center;
+    
+}
+div {
+    background-color: pink;
+    border: 2px dashed red;
+    margin: auto;
+}
+hr {
+    background-color: crimson;
+    height: 5px;
+}

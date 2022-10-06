@@ -1,0 +1,40 @@
+img {
+    border: 2px solid rebeccapurple;
+}
+
+body {
+    background-color: khaki
+}
+
+b {
+    color: teal;
+    font-family: Helvetica,Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: darkgreen;
+    font-family:copperplate;
+}
+
+h1{
+    font-family: Papyrus,Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: rgb(2, 88, 127);
+}
+
+
+#desc {
+    color: navy ;
+    font-family: American Typewriter,Arial, Helvetica, sans-serif;
+}
+
+#ingr {
+    color: maroon;
+    font-family: monaco,Arial, Helvetica, sans-serif;
+}
+
+#step {
+    color: crimson;
+    font-family: futura,Arial, Helvetica, sans-serif;
+}
+
